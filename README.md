@@ -1,9 +1,19 @@
-# Agentic Honeypot API
+# MUJ Immersion 404 – Honeypot API
 
-Live URL:
-https://muj-immersion-404-honeypot-api-production.up.railway.app/honeypot
+## Live URL
+https://muj-immersion-404-honeypot-api-production.up.railway.app/
 
-Method: POST
-Auth: x-api-key
+## Description
+A Spring Boot–based honeypot API deployed on Railway that simulates endpoints to detect suspicious activity.
 
-Tech: Java, Spring Boot, Railway
+## Tech Stack
+- Java
+- Spring Boot
+- Maven
+- Railway (Deployment)
+
+## Health Check
+/health
+
+## Team
+MUJ Immersion 404 (Anuvansh & Revanth)
